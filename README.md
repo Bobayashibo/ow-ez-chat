@@ -32,7 +32,7 @@ Overwatch用多言語チャット発行ツール。英語・韓国語・中国�
 ## ⚖️ 著作権・利用規約 (Copyright & Terms of Use)
 
 本ソフトウェアのソースコード、デザイン、およびドキュメントに関する著作権は制作者、ボ林に帰属します。
-（ボ林：https://x.com/boba_yashi）
+ボ林：https://x.com/boba_yashi
 
 ### 禁止事項
 以下の行為を固く禁じます。
